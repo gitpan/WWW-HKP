@@ -9,7 +9,7 @@ use LWP::UserAgent 6.05;
 use URI 1.60;
 use URI::Escape 3.31;
 
-our $VERSION = '0.03'; # VERSION
+our $VERSION = '0.04'; # VERSION
 
 
 sub new($;%) {
@@ -163,7 +163,7 @@ WWW::HKP - Interface to HTTP Keyserver Protocol (HKP)
 
 =head1 VERSION
 
-version 0.03
+version 0.04
 
 =head1 DESCRIPTION
 

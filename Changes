@@ -1,6 +1,9 @@
 Revision history for WWW-HKP
 
-{{$NEXT}}
+0.04 2014-11-24
+ - auto-update changelog before release
+
+0.03 2014-11-24
  - Revert "changed distname to project name (debian-like)"
  - changed license to ISC
  - no Changes file yet

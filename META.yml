@@ -27,7 +27,7 @@ resources:
   bugtracker: https://github.com/zurborg/libwww-hkp-perl/issues
   homepage: https://github.com/zurborg/libwww-hkp-perl
   repository: https://github.com/zurborg/libwww-hkp-perl.git
-version: '0.03'
+version: '0.04'
 x_contributors:
   - 'David Zurborg <post@david-zurb.org>'
   - 'Sergey Romanov <sromanov-dev@yandex.ru>'
